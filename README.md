@@ -1,5 +1,5 @@
 <h1 align="center">Hey world 👋, It's Tanuj Dhiman Here</h1>
-<h3 align="center">|🎓 Student |😎 Finalist of Hackmaker Hackethon |🤖ML & DL | Kaggle Expert | TeamOutliers | OpenCV |</h3>
+<h3 align="center">|🎓 Student |😎 Finalist of Hackmaker Hackethon |🤖ML & DL |🤹‍♂️ Computer Vision Expert| Kaggle Expert | TeamOutliers | OpenCV |</h3>
 
 <br>
 
