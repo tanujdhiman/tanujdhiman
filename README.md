@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/tanujdhiman?tab=repositories)
 
-- 📝 I regulary write articles on **NO where**
+- 📝 I oftenly write articles on [Medium](https://medium.com/@tanujdhiman246)
 
 - 💬 Ask me about **Deep Learning, Data Science, Computer Vision and Real-world Projects**
 
