@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **OpenCV**
+- 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on ***update soon***
 - 🤔 I’m looking for help with ***update soon***-->
 
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/tanujdhiman?tab=repositories)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/tanujdhiman?tab=repositories)
 
 - 📝 I oftenly write articles on [Medium](https://medium.com/@tanujdhiman246)
 
